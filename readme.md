@@ -16,3 +16,13 @@ Cypress
 |-- support
     |-- page_object_model
 ```
+Files that stores test data are inside
+```
+Cypress
+|-- fixtures
+```
+Files that stores Cypress Custom Commands are inside
+```
+Cypress
+|-- support
+```
