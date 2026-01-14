@@ -26,3 +26,7 @@ Files that stores Cypress Custom Commands are inside
 Cypress
 |-- support
 ```
+The config is in
+```
+cypress.config.js
+```
